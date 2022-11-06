@@ -1,5 +1,7 @@
 Group Pokemon Game Project
 
+User starts with a pokemon and travels around multiple small maps encountering different events and engaging in battles. 
+
 Individually Responsible for 
 
 - Entity class
@@ -10,4 +12,4 @@ Individually Responsible for
 - store method
 - main method
 
-*also contributed and collaborated on other classes assigned to other group members
+*also heavily contributed and collaborated on other classes assigned to other group members
