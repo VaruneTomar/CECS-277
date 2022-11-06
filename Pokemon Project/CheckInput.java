@@ -10,7 +10,7 @@ import java.util.Scanner;
  *
  * Example:  int num = CheckInput.getInt();
  *
- * @author Shannon Cleary 2021
+ * @author Professor of the Course
  */
 public class CheckInput {
 
