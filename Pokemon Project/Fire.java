@@ -4,7 +4,7 @@ package com.company;
  *
  * This is the interface for all pokemon of the fire type
  *
- * @author Jack Pickle
+ * @author Jack
  *
  */
 public interface Fire {
