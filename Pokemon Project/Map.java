@@ -9,7 +9,7 @@ import java.awt.*;
  *
  * This is the map class, containing all methods involving the map itself.
  *
- * @author MyName
+ * @author Varune Tomar
  *
  */
 public class Map {
