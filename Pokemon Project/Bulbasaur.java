@@ -4,7 +4,7 @@ import java.util.Random;
 /**
  *
  * Class for the Bulbasaur object, with its attributes.
- * @author Randy Mondragon
+ * @author Randy
  */
 public class Bulbasaur extends Pokemon implements Grass{
     /**
