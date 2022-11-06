@@ -7,7 +7,7 @@ package com.company;
  *	Since this class is abstract, call object.method
  *
  * Example:  int num = pokemon.getHp();
- * @author Varune Tomar 2021
+ * @author Varune Tomar
  */
 public abstract class Entity{
     /**
