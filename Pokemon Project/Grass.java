@@ -4,7 +4,7 @@ package com.company;
  *
  * This is the interface for all pokemon of the Grass type
  *
- * @author Randy Mondragon
+ * @author Randy
  *
  */
 public interface Grass {
