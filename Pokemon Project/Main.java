@@ -5,9 +5,9 @@ import java.io.FileNotFoundException;
 import java.util.Random;
 import java.util.ArrayList;
 
-// Group Member #1 - Jack Pickle
+// Group Member #1 - Jack
 // Group Member #2 - Varune Tomar
-// Group Member #3 - Randy Mondragon
+// Group Member #3 - Randy
 
 class Main {
     public static void main(String[] args) throws FileNotFoundException {
