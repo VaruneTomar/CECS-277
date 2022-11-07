@@ -6,7 +6,7 @@ import java.util.Random;
  *
  * Class for the charmader object, with its attributes.
  *
- * @author Jack Pickle
+ * @author Jack
  */
 public class Charmander extends Pokemon implements Fire{
     /**
