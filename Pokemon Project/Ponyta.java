@@ -5,7 +5,7 @@ import java.util.Random;
  *
  * Class for the Ponyta object, with its attributes.
  *
- * @author Jack Pickle
+ * @author Jack
  */
 public class Ponyta extends Pokemon implements Fire{
     /**
