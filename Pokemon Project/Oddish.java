@@ -6,7 +6,7 @@ import java.util.Random;
  *
  * Class for the Oddish object, with its attributes.
  *
- * @author Randy Mondragon
+ * @author Randy
  */
 public class Oddish extends Pokemon implements Grass{
     /**
