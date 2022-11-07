@@ -7,7 +7,7 @@ import java.util.Random;
  *
  * This is the trainer class, containing the trainer object's atributes and methods
  *
- * @author Jack Pickle
+ * @author Jack
  *
  */
 public class Trainer extends Entity {
