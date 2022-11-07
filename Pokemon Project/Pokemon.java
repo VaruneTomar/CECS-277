@@ -5,7 +5,7 @@ import java.util.Random;
  *
  * This is the pokemon class, containing the pokemon object's atributes and methods
  *
- * @author Randy Mondragon
+ * @author Randy
  *
  */
 public abstract class Pokemon extends Entity{
